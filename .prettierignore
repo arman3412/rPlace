@@ -1,0 +1,8 @@
+node_modules
+dist
+artifacts
+package-lock.json
+src/lib/abi.ts
+docs/*.png
+test-results
+playwright-report
